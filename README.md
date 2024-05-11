@@ -1,2 +1,0 @@
-# HipHopFinal
-HipHop Final
